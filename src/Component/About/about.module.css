@@ -1,0 +1,17 @@
+.aboutBackground{
+    background-color: #1ABC9C !important;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+.width10{
+    width: 10%;
+}
+.width20{
+    width: 20%;
+}
+.line{
+    height: 0.25rem;
+    width: 7rem;
+    border-bottom: 5px solid white ;
+    border-radius: 1rem;
+}

@@ -1,0 +1,21 @@
+.background{
+    background-color: #2C3E50;
+    padding-top:  1.4rem; 
+    padding-bottom:  1rem; 
+}
+.circle{
+    color: #fff;
+    width: 55px;
+    height: 55px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+}
+.circle:hover{
+    background-color: #fff !important;
+    color: black !important;
+}
+.copyrights{
+   background-color:  #1A252F !important;
+   padding-top:  1rem; 
+    padding-bottom:  1rem; 
+}
